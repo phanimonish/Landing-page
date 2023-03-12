@@ -1,0 +1,159 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.navbar{
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-top: 30px;
+}
+.nav-link{
+    color: white;
+    margin-left: 25px;
+    font-size: 1rem;
+}
+.navbar-toggler, .navbar-toggler:focus {
+    border: none;
+    box-shadow: none;
+}
+header{
+    height: 100vh;
+    background-image: url(background.png);
+    background-position: center;
+    background-size: cover;
+    color: white;
+}
+h1{
+    margin-bottom: 20px;
+    font-size: 3.5rem;
+}
+.buttons{
+    position: relative;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    top: 120px;
+    margin: 0 250px;
+}
+.buttons .btn {
+    width: 10rem;
+    padding: 0.5rem 0;
+}
+.bttn, .bttn:hover{
+    background-color: #285a43;
+    color: white;
+}
+.text{
+    position: relative;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    top: 100px;
+    margin: 0 250px;
+}
+.box{
+    margin: 100px 80px;
+}
+h2{
+    color: #285a43;
+    font-size: 2.2rem;
+}
+.matter{
+    width: 43%;
+    display: inline-block;
+    margin-left: 50px;
+}
+p{
+    font-size: 1rem;
+}
+.cards{
+    margin: 50px;
+}
+.card-2{
+    background-color: #337a5b;
+    color: white;
+}
+.m{
+    background-color: #F8F8F8;
+}
+.column{
+    margin-top: 100px;
+    display: flex;
+}
+.gallery-text{
+    margin-top: 50px ;
+    text-align: center;
+}
+.images{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+}
+.a{
+    width: 500px;
+    margin: 5px 5px;
+}
+.a img{
+    display: block;
+    width: 100%;
+}
+.boxes{
+    display: flex;
+}
+.test-1{
+    background-image: url(testimonial.png);
+}
+.test-2{
+    background-image: url(testimonial-2.png);
+}
+.test-3{
+    background-image: url(testimonial-3.png);
+}
+.mon{
+    background-color: #F8F8F8;
+}
+.product{
+    background-color: #FCFCFC;
+}
+.mail{
+    height: 50vh;
+    background-image: url(CTA.png);
+}
+.footer{
+    height: 50vh;
+    background-image: url(Footer.png);
+}
+.e{
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+}
+.sm{
+    text-align: center;
+}
+.cp{
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+}
+.q{
+    padding-left: 80px;
+    padding-top: 75px;
+    color: white;
+    width: 90%;
+}
+h3{
+    line-height: 1.5;
+}
+.i{
+    color: white;
+    padding-top: 70px;
+}
+.in{
+    width: 80%;
+    border-radius: 1px solid white;
+    background-color: transparent;
+}
+.in::placeholder{
+    color: white;
+}
